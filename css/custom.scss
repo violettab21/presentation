@@ -1,0 +1,22 @@
+.scrum-roles-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.scrum-master {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.scrum-master ul {
+  width: 45%;
+}
+
+.projects {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  justify-content: space-around;
+}
